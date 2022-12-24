@@ -100,7 +100,7 @@ void main() {
       await provider.fetchTvDetail(tId);
       // assert
       expect(provider.TvState, RequestState.Loaded);
-      expect(provider.series, testTVDetail);
+      expect(provider.Tv, testTVDetail);
       expect(listenerCallCount, 3);
     });
 

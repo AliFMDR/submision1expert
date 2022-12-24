@@ -34,7 +34,7 @@ import 'package:ditonton/presentation/provider/popular_tv_notifier.dart';
 import 'package:ditonton/presentation/provider/top_rated_movies_notifier.dart';
 import 'package:ditonton/presentation/provider/top_rated_tv_notifier.dart';
 import 'package:ditonton/presentation/provider/detail_tv_notifier.dart';
-import 'package:ditonton/presentation/provider/list_Tv_notifier.dart';
+import 'package:ditonton/presentation/provider/list_tv_notifier.dart';
 import 'package:ditonton/presentation/provider/search_tv_notifier.dart';
 import 'package:ditonton/presentation/provider/watchlist_movie_notifier.dart';
 import 'package:ditonton/presentation/provider/wacthlist_tv_notifier.dart';

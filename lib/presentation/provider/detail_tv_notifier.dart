@@ -28,7 +28,7 @@ class TvDetailNotifier extends ChangeNotifier {
   });
 
   late TvSeriesDetail _Tv;
-  TvSeriesDetail get series => _Tv;
+  TvSeriesDetail get Tv => _Tv;
 
   RequestState _TvState = RequestState.Empty;
   RequestState get TvState => _TvState;

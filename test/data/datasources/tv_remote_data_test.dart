@@ -22,7 +22,7 @@ void main() {
     dataSource = TvRemoteDataSourceImpl(client: mockHttpClient);
   });
 
-  group('get Now PlayingTv', () {
+  group('get Now Playing Series', () {
     final tMovieList = TvSeriesResponse.fromJson(
             json.decode(readJson('dummy_data/tv_now.json')))
         .seriesList;

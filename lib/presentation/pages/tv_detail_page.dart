@@ -41,7 +41,7 @@ class _TvDetailPageState extends State<TvDetailPage> {
               child: CircularProgressIndicator(),
             );
           } else if (provider.TvState == RequestState.Loaded) {
-            final Tv = provider.series;
+            final Tv = provider.Tv;
             return SafeArea(
               child: DetailContent(
                 Tv,

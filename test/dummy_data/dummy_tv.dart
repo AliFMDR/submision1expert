@@ -4,17 +4,17 @@ import 'package:ditonton/domain/entities/tv.dart';
 import 'package:ditonton/domain/entities/tv_detail.dart';
 
 final testTV = TV(
-  backdropPath: '"/1rO4xoCo4Z5WubK0OwdVll3DPYo.jpg"',
-  genreIds: [10765, 10759, 18],
-  id: 84773,
-  name: 'The Lord of the Rings: The Rings of Power',
-  originalName: "The Lord of the Rings: The Rings of Power",
+  backdropPath: '/muth4OYamXf41G2evdrLEg8d3om.jpg',
+  genreIds: const [14, 28],
+  id: 557,
+  originalName: 'Dahmer',
   overview:
-      "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-  popularity: 5205.091,
-  posterPath: "/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg",
-  voteAverage: 7.7,
-  voteCount: 983,
+      'After being bitten by a genetically altered spider, nerdy high school student Peter Parker is endowed with amazing powers to become the Amazing superhero known as Spider-Man.',
+  popularity: 60.441,
+  posterPath: '/rweIrveL43TaxUN0akQEaAXL6x0.jpg',
+  name: 'Dahmer',
+  voteAverage: 7.2,
+  voteCount: 13507,
 );
 
 final testTVList = [testTV];

@@ -48,7 +48,7 @@ class _HomeTvPageState extends State<HomeTvPage> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               _buildSubHeading(
-                title: 'On The Air',
+                title: 'Live Tv',
                 onTap: () =>
                     Navigator.pushNamed(context, NowPlayingTv.ROUTE_NAME),
               ),
