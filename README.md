@@ -50,22 +50,12 @@ Jika kamu menerapkan modular pada project, Anda dapat memanfaatkan berkas `test.
     Proses ini akan men-*generate* berkas `lcov.info` dan folder `coverage` terkait dengan laporan coverage.
 4. Tunggu proses testing selesai hingga muncul web terkait laporan coverage.
 
-
 [![Codemagic build status](https://api.codemagic.io/apps/63a5e74361827396e234b527/63a5e74361827396e234b526/status_badge.svg)](https://codemagic.io/apps/63a5e74361827396e234b527/63a5e74361827396e234b526/latest_build)
 
-![Screenshot (759)](https://user-images.githubusercontent.com/110685752/209431776-deceecb9-a1d9-40a7-841f-bdc969bb24a5.png)
+![image](https://user-images.githubusercontent.com/110685752/209747395-c0cbc25f-5960-4aca-bebe-8d24c2ffebc8.png)
 
-
-
-![Screenshot (761)](https://user-images.githubusercontent.com/110685752/209432106-4f493664-7c50-4bc2-bbba-326dfd776637.png)
-
-
-
-
-
-![Screenshot (757)](https://user-images.githubusercontent.com/110685752/209432194-cbc00142-9717-4570-a8d6-618939ed4e4f.png)
-
-
+![Screenshot (775)](https://user-images.githubusercontent.com/110685752/209747784-468c20a5-f9bb-48e6-9269-3c4e8e6e05d2.png)
+![Screenshot (776)](https://user-images.githubusercontent.com/110685752/209747793-bd7acd8c-1c60-456d-a03d-d38f8724679a.png)
 
 
 
