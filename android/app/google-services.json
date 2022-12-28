@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665809409191",
+    "project_id": "expertakhir",
+    "storage_bucket": "expertakhir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665809409191:android:99abdf45b342a6dae03782",
+        "android_client_info": {
+          "package_name": "com.dicoding.ditonton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665809409191-d8r7mseqefjl98g9pi6e0nkn924ejqd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlj8gJnKs87qR-EX27GqWy4BBy2qK0RH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665809409191-d8r7mseqefjl98g9pi6e0nkn924ejqd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
